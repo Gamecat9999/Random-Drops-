@@ -1,0 +1,9 @@
+name: Drops
+main: me.james.drops.Drops
+version: 1.0
+api-version: 1.21
+commands:
+  startdrops:
+    description: Starts the drop cycle
+  stopdrops:
+    description: Stops the drop cycle
